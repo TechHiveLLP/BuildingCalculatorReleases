@@ -1,19 +1,19 @@
 {
-  "version": "1.0.10",
-  "notes": "v1.0.10 release",
-  "pub_date": "2026-03-26T19:16:02Z",
+  "version": "1.0.11",
+  "notes": "v1.0.11 — Refuge floor display in results, hover fix in building visualization",
+  "pub_date": "2026-03-26T19:30:35Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.10/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nng5Q3Y3TmViWWFwM1RlTEhaV1NUSGVzdXlKWFBaamc3amJ1QTBDN0JmNUNRMkVhWVJ2eWV3N25uUENEN3FEbGZGODNCbG1IMFNXMFpXVm5vMElVL2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTUyNTQ2CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CjF3eUg3amZkVWhESVBqbDRyVTlKdVdSMnFkRWFKaG5rTk9jcHpRN1NZRzZnV1FYTXFvSHh5dXVSVDBzbEp0T2xLMzZtdjdUTkJJQnR2eTREbGRNYUN3PT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.11/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Ni9tRi9qOXNDV1NXVmZxdktUSTFGRnV1YTFGNlMrMlYyVVlrcDJjMkhFd01LMVZYOXkvSWdRQ0FHazRlaEYxVUhCNkJDWnJtd05qQzZMZ0JRcnNNU0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTUzNDI1CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmpmS2F6U0VScU9RZWE1NS9ndlJZbUxkWGh3TjBrdlVLcVMrUHNKR0VqUlgxVmtMNHVXdHdQa1pIbWtEU09RTHk4SUp1NFRDV2MvMmhwVHBKSm4wd0J3PT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.10/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nng5Q3Y3TmViWWFwM1RlTEhaV1NUSGVzdXlKWFBaamc3amJ1QTBDN0JmNUNRMkVhWVJ2eWV3N25uUENEN3FEbGZGODNCbG1IMFNXMFpXVm5vMElVL2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTUyNTQ2CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CjF3eUg3amZkVWhESVBqbDRyVTlKdVdSMnFkRWFKaG5rTk9jcHpRN1NZRzZnV1FYTXFvSHh5dXVSVDBzbEp0T2xLMzZtdjdUTkJJQnR2eTREbGRNYUN3PT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.11/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Ni9tRi9qOXNDV1NXVmZxdktUSTFGRnV1YTFGNlMrMlYyVVlrcDJjMkhFd01LMVZYOXkvSWdRQ0FHazRlaEYxVUhCNkJDWnJtd05qQzZMZ0JRcnNNU0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTUzNDI1CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmpmS2F6U0VScU9RZWE1NS9ndlJZbUxkWGh3TjBrdlVLcVMrUHNKR0VqUlgxVmtMNHVXdHdQa1pIbWtEU09RTHk4SUp1NFRDV2MvMmhwVHBKSm4wd0J3PT0K"
     },
     "darwin-universal": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.10/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nng5Q3Y3TmViWWFwM1RlTEhaV1NUSGVzdXlKWFBaamc3amJ1QTBDN0JmNUNRMkVhWVJ2eWV3N25uUENEN3FEbGZGODNCbG1IMFNXMFpXVm5vMElVL2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTUyNTQ2CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CjF3eUg3amZkVWhESVBqbDRyVTlKdVdSMnFkRWFKaG5rTk9jcHpRN1NZRzZnV1FYTXFvSHh5dXVSVDBzbEp0T2xLMzZtdjdUTkJJQnR2eTREbGRNYUN3PT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.11/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Ni9tRi9qOXNDV1NXVmZxdktUSTFGRnV1YTFGNlMrMlYyVVlrcDJjMkhFd01LMVZYOXkvSWdRQ0FHazRlaEYxVUhCNkJDWnJtd05qQzZMZ0JRcnNNU0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTUzNDI1CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmpmS2F6U0VScU9RZWE1NS9ndlJZbUxkWGh3TjBrdlVLcVMrUHNKR0VqUlgxVmtMNHVXdHdQa1pIbWtEU09RTHk4SUp1NFRDV2MvMmhwVHBKSm4wd0J3PT0K"
     }
   }
 }
