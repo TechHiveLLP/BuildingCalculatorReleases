@@ -1,19 +1,19 @@
 {
-  "version": "1.0.14",
-  "notes": "Bug fixes and improvements",
+  "version": "1.0.15",
+  "notes": "Fix blank screen caused by duplicate React instances in monorepo",
   "pub_date": "2026-03-28T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.14/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Ni9CR1VlK1ozTEFKMGZKdjNyU2pLeGNNd3lNdzA1OVpmaTBMTmRiQ1libjZIUGRZazFDdEx6dHd6Y1pXUmYvcTBEMHdXdUdrdlVBOGxodHVIYVZHWmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0Njc2MjE4CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CndMb1hPWVZnNWhMNC9VSCttblVEMmhWWERycnBjNkxqMlQ2UFd0MWUzT1FkV09DN2ZERXM3cEN1YTdzYWdIb3psUS9oZjArTkQrcE0wSFU4ZHBGUkFRPT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.15/Building.Calculator.app.tar.gz",
+      "signature": "SIG_PLACEHOLDER"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.14/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Ni9CR1VlK1ozTEFKMGZKdjNyU2pLeGNNd3lNdzA1OVpmaTBMTmRiQ1libjZIUGRZazFDdEx6dHd6Y1pXUmYvcTBEMHdXdUdrdlVBOGxodHVIYVZHWmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0Njc2MjE4CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CndMb1hPWVZnNWhMNC9VSCttblVEMmhWWERycnBjNkxqMlQ2UFd0MWUzT1FkV09DN2ZERXM3cEN1YTdzYWdIb3psUS9oZjArTkQrcE0wSFU4ZHBGUkFRPT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.15/Building.Calculator.app.tar.gz",
+      "signature": "SIG_PLACEHOLDER"
     },
     "darwin-universal": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.14/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Ni9CR1VlK1ozTEFKMGZKdjNyU2pLeGNNd3lNdzA1OVpmaTBMTmRiQ1libjZIUGRZazFDdEx6dHd6Y1pXUmYvcTBEMHdXdUdrdlVBOGxodHVIYVZHWmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0Njc2MjE4CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CndMb1hPWVZnNWhMNC9VSCttblVEMmhWWERycnBjNkxqMlQ2UFd0MWUzT1FkV09DN2ZERXM3cEN1YTdzYWdIb3psUS9oZjArTkQrcE0wSFU4ZHBGUkFRPT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.15/Building.Calculator.app.tar.gz",
+      "signature": "SIG_PLACEHOLDER"
     }
   }
 }
