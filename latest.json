@@ -1,1 +1,19 @@
-{"version":"1.0.23","notes":"Multi-tower support, component extraction, calculation-logic docs rewrite","pub_date":"2026-03-29T00:00:00Z","platforms":{"darwin-aarch64":{"url":"https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.23/Building.Calculator.app.tar.gz","signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjNPV0pSem5zOWdFeGdGZjJ1Y3pROXFEblowRWZqQjZoUHlsLy85by9oRmRpNEJ4Uy8ydWFvaW5FUlo2V3cwY2F6VjU4R0J5R1JjaWR0VVNzeDNXT1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzcwODAwCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CnNvQW9YdCtEQndPVzFucnJmUzJiN0lvWHdQYy9BaW5LMDlCeEQrSlJLZG4reUgremVWVFJPRDVXT0JpOWloRGhDNUdZR0Y5eVUzTkJQMk5EQUU1QURRPT0K"},"darwin-x86_64":{"url":"https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.23/Building.Calculator.app.tar.gz","signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjNPV0pSem5zOWdFeGdGZjJ1Y3pROXFEblowRWZqQjZoUHlsLy85by9oRmRpNEJ4Uy8ydWFvaW5FUlo2V3cwY2F6VjU4R0J5R1JjaWR0VVNzeDNXT1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzcwODAwCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CnNvQW9YdCtEQndPVzFucnJmUzJiN0lvWHdQYy9BaW5LMDlCeEQrSlJLZG4reUgremVWVFJPRDVXT0JpOWloRGhDNUdZR0Y5eVUzTkJQMk5EQUU1QURRPT0K"},"darwin-universal":{"url":"https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.23/Building.Calculator.app.tar.gz","signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjNPV0pSem5zOWdFeGdGZjJ1Y3pROXFEblowRWZqQjZoUHlsLy85by9oRmRpNEJ4Uy8ydWFvaW5FUlo2V3cwY2F6VjU4R0J5R1JjaWR0VVNzeDNXT1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzcwODAwCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CnNvQW9YdCtEQndPVzFucnJmUzJiN0lvWHdQYy9BaW5LMDlCeEQrSlJLZG4reUgremVWVFJPRDVXT0JpOWloRGhDNUdZR0Y5eVUzTkJQMk5EQUU1QURRPT0K"}}}
+{
+  "version": "1.0.24",
+  "notes": "Rename Podium to Parking/Podium, mobile refactor, layout tightening",
+  "pub_date": "2026-03-29T16:30:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.24/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nnh6akYreGxOMXNDa2FtNXNkUzZsUG9nZXJSYWo2OTI4ZHpyTURudFFuVTRGcjRUSmovRFBkLzRhTnlVODFOZ2VnZG9WVXB4dHFBU2NVb3htMTluL2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODAxNjIxCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6Cmp6dnQzdmJWTGRrYVNKUHUwNkRydld3cFlDV1pYT0swbXkrZU9OemVobWdFWmV6SjZkYVk4WlAyd0s1N2tOOTIrMmgwdkR3NkxqUS9leVR1ZlF4V0FBPT0K"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.24/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nnh6akYreGxOMXNDa2FtNXNkUzZsUG9nZXJSYWo2OTI4ZHpyTURudFFuVTRGcjRUSmovRFBkLzRhTnlVODFOZ2VnZG9WVXB4dHFBU2NVb3htMTluL2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODAxNjIxCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6Cmp6dnQzdmJWTGRrYVNKUHUwNkRydld3cFlDV1pYT0swbXkrZU9OemVobWdFWmV6SjZkYVk4WlAyd0s1N2tOOTIrMmgwdkR3NkxqUS9leVR1ZlF4V0FBPT0K"
+    },
+    "darwin-universal": {
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.24/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nnh6akYreGxOMXNDa2FtNXNkUzZsUG9nZXJSYWo2OTI4ZHpyTURudFFuVTRGcjRUSmovRFBkLzRhTnlVODFOZ2VnZG9WVXB4dHFBU2NVb3htMTluL2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODAxNjIxCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6Cmp6dnQzdmJWTGRrYVNKUHUwNkRydld3cFlDV1pYT0swbXkrZU9OemVobWdFWmV6SjZkYVk4WlAyd0s1N2tOOTIrMmgwdkR3NkxqUS9leVR1ZlF4V0FBPT0K"
+    }
+  }
+}
