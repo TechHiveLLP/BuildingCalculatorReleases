@@ -1,19 +1,19 @@
 {
-  "version": "1.0.24",
-  "notes": "Rename Podium to Parking/Podium, mobile refactor, layout tightening",
-  "pub_date": "2026-03-29T16:30:00Z",
+  "version": "1.0.25",
+  "notes": "RAH overlay FSI rules, commercial floor area breakdown, bug fixes",
+  "pub_date": "2026-03-31T06:28:51Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.24/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nnh6akYreGxOMXNDa2FtNXNkUzZsUG9nZXJSYWo2OTI4ZHpyTURudFFuVTRGcjRUSmovRFBkLzRhTnlVODFOZ2VnZG9WVXB4dHFBU2NVb3htMTluL2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODAxNjIxCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6Cmp6dnQzdmJWTGRrYVNKUHUwNkRydld3cFlDV1pYT0swbXkrZU9OemVobWdFWmV6SjZkYVk4WlAyd0s1N2tOOTIrMmgwdkR3NkxqUS9leVR1ZlF4V0FBPT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.25/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjJuVVVqMGgvMWN1VjdLZXAwek14Y0srS1g4YmZEbUVsaGF5NVE3Y3lmQ1hMbkJ1M3B0L212SUF0UUlhQWR4OEVHYlFrRDhFaU1BV3AzRDJqc1RrU0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTM4MzkzCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmdUeHpPeWxGeHo2UitETURhdG15RytzdkJJREQxK0kweHdMUU95OXREalQxc2gxS0dYVER3MmU2b2JFRVV2Ui9EWGhaQjczZm9YTW5nTXRYU2RDL0FBPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.24/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nnh6akYreGxOMXNDa2FtNXNkUzZsUG9nZXJSYWo2OTI4ZHpyTURudFFuVTRGcjRUSmovRFBkLzRhTnlVODFOZ2VnZG9WVXB4dHFBU2NVb3htMTluL2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODAxNjIxCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6Cmp6dnQzdmJWTGRrYVNKUHUwNkRydld3cFlDV1pYT0swbXkrZU9OemVobWdFWmV6SjZkYVk4WlAyd0s1N2tOOTIrMmgwdkR3NkxqUS9leVR1ZlF4V0FBPT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.25/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjJuVVVqMGgvMWN1VjdLZXAwek14Y0srS1g4YmZEbUVsaGF5NVE3Y3lmQ1hMbkJ1M3B0L212SUF0UUlhQWR4OEVHYlFrRDhFaU1BV3AzRDJqc1RrU0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTM4MzkzCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmdUeHpPeWxGeHo2UitETURhdG15RytzdkJJREQxK0kweHdMUU95OXREalQxc2gxS0dYVER3MmU2b2JFRVV2Ui9EWGhaQjczZm9YTW5nTXRYU2RDL0FBPT0K"
     },
     "darwin-universal": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.24/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nnh6akYreGxOMXNDa2FtNXNkUzZsUG9nZXJSYWo2OTI4ZHpyTURudFFuVTRGcjRUSmovRFBkLzRhTnlVODFOZ2VnZG9WVXB4dHFBU2NVb3htMTluL2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODAxNjIxCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6Cmp6dnQzdmJWTGRrYVNKUHUwNkRydld3cFlDV1pYT0swbXkrZU9OemVobWdFWmV6SjZkYVk4WlAyd0s1N2tOOTIrMmgwdkR3NkxqUS9leVR1ZlF4V0FBPT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.25/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjJuVVVqMGgvMWN1VjdLZXAwek14Y0srS1g4YmZEbUVsaGF5NVE3Y3lmQ1hMbkJ1M3B0L212SUF0UUlhQWR4OEVHYlFrRDhFaU1BV3AzRDJqc1RrU0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTM4MzkzCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmdUeHpPeWxGeHo2UitETURhdG15RytzdkJJREQxK0kweHdMUU95OXREalQxc2gxS0dYVER3MmU2b2JFRVV2Ui9EWGhaQjczZm9YTW5nTXRYU2RDL0FBPT0K"
     }
   }
 }
