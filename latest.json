@@ -1,19 +1,19 @@
 {
-  "version": "1.0.26",
-  "notes": "Multi-city architecture: city-first navigation, Ahmedabad calculators, recent reports on home",
-  "pub_date": "2026-03-31T08:11:38Z",
+  "version": "1.0.27",
+  "notes": "Added 6 new calculators: Multi-Tower Residential, Commercial, Multi-Tower Commercial, Mixed-Use, Multi-Tower Mixed-Use. Backend refactored with Gujarat shared architecture. Frontend shared Step 1/3 components.",
+  "pub_date": "2026-04-01T16:56:34Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.26/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjJ6RjFYTUtSeXd4OElZY01tZDJpNUNiK3c3MW9kYjExZ25OazFLWUx0cU9ucGRxRmlUT3dodVNNdWJadkhadlBDejVwbVJRalQ3c0xXdTNHSWJOWmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTQ0NjUyCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CjRyc2cycnpWU1NxMVJsb0RtTHFUbnlhdHlJeWg5emtwYS9kMW5kd0U2cXU1SDduUlNFblpLWllLT2kzSExmc3V1czJ1ZEh3RFZKenZNL1daR1JJQkJ3PT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.27/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nnc5bkdFUzJQM2lnNTNielF4R1VnUWorbFVVUStyZjgrS0IxV0JzR0REYjVnWnFnWE9odFhKMjJVWW1zbnhLditWdllUNC9Ha0t2Y2VpUWsxWFdaa1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDYyNTgxCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6ClQxUnRxQkdUMzRrbFJaUUhrY210Qm9SUmFWVXlwOUpQb25UQnU2ZkFUYWpNZ1RuUzJBU3B2VmZDN3RGUEN0QkcweHZqZ1lwMnZyK01kZGxBRVV6eURRPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.26/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjJ6RjFYTUtSeXd4OElZY01tZDJpNUNiK3c3MW9kYjExZ25OazFLWUx0cU9ucGRxRmlUT3dodVNNdWJadkhadlBDejVwbVJRalQ3c0xXdTNHSWJOWmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTQ0NjUyCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CjRyc2cycnpWU1NxMVJsb0RtTHFUbnlhdHlJeWg5emtwYS9kMW5kd0U2cXU1SDduUlNFblpLWllLT2kzSExmc3V1czJ1ZEh3RFZKenZNL1daR1JJQkJ3PT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.27/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nnc5bkdFUzJQM2lnNTNielF4R1VnUWorbFVVUStyZjgrS0IxV0JzR0REYjVnWnFnWE9odFhKMjJVWW1zbnhLditWdllUNC9Ha0t2Y2VpUWsxWFdaa1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDYyNTgxCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6ClQxUnRxQkdUMzRrbFJaUUhrY210Qm9SUmFWVXlwOUpQb25UQnU2ZkFUYWpNZ1RuUzJBU3B2VmZDN3RGUEN0QkcweHZqZ1lwMnZyK01kZGxBRVV6eURRPT0K"
     },
     "darwin-universal": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.26/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjJ6RjFYTUtSeXd4OElZY01tZDJpNUNiK3c3MW9kYjExZ25OazFLWUx0cU9ucGRxRmlUT3dodVNNdWJadkhadlBDejVwbVJRalQ3c0xXdTNHSWJOWmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTQ0NjUyCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CjRyc2cycnpWU1NxMVJsb0RtTHFUbnlhdHlJeWg5emtwYS9kMW5kd0U2cXU1SDduUlNFblpLWllLT2kzSExmc3V1czJ1ZEh3RFZKenZNL1daR1JJQkJ3PT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.27/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nnc5bkdFUzJQM2lnNTNielF4R1VnUWorbFVVUStyZjgrS0IxV0JzR0REYjVnWnFnWE9odFhKMjJVWW1zbnhLditWdllUNC9Ha0t2Y2VpUWsxWFdaa1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MDYyNTgxCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6ClQxUnRxQkdUMzRrbFJaUUhrY210Qm9SUmFWVXlwOUpQb25UQnU2ZkFUYWpNZ1RuUzJBU3B2VmZDN3RGUEN0QkcweHZqZ1lwMnZyK01kZGxBRVV6eURRPT0K"
     }
   }
 }
