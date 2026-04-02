@@ -1,19 +1,19 @@
 {
-  "version": "1.0.29",
-  "notes": "Added Redevelopment Feasibility calculator for Ahmedabad",
-  "pub_date": "2026-04-02T06:33:49Z",
+  "version": "1.0.30",
+  "notes": "Documents Guide page + enriched tooltips with document sources",
+  "pub_date": "2026-04-02T15:06:37Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.29/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjZha2JmN0dhWlhNNUJiQVNLYnZCVGdNN2lHbHM5c3ZxQVNudlk1dHA3bHBmakJRRFhEdmtESEJEZEZ6dmxHQVVNYkU0SFFFNlpYWTdHR2lwMnpwSndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTExNjEyCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6ClNXTVpDaDluLzcwdGpxdTZIdDBZOWRyN2NhY3JmR3ZEc0hBREs3bHZmRGNvTVBQbWZvWEN2QktqVElDcmVzRXA3L0QzQUFXZ0F6TFYxbDZidXd4U0F3PT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.30/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjFVVHh2RStNSWs2UlJFN0lRa3hCZ3RyeFFoODIyUTFWanRhUk1hTkJ4Mzc1bzd2THkyd1pWWHpkY3YwcHdrZURmOGd0RGhJUi9NL0VyOHpUZzJkMGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTQyMzg2CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CktCVjgva050SldQeFBucm9WaFYwdFZZZHNiYzFsK0ZMSnhkc1h6bWllTjRYRHNpQ05XS1gzQytkWXY1QzV3TGE2ZitMaWZzSVRyZmdhQlhUWDVSUUNRPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.29/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjZha2JmN0dhWlhNNUJiQVNLYnZCVGdNN2lHbHM5c3ZxQVNudlk1dHA3bHBmakJRRFhEdmtESEJEZEZ6dmxHQVVNYkU0SFFFNlpYWTdHR2lwMnpwSndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTExNjEyCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6ClNXTVpDaDluLzcwdGpxdTZIdDBZOWRyN2NhY3JmR3ZEc0hBREs3bHZmRGNvTVBQbWZvWEN2QktqVElDcmVzRXA3L0QzQUFXZ0F6TFYxbDZidXd4U0F3PT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.30/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjFVVHh2RStNSWs2UlJFN0lRa3hCZ3RyeFFoODIyUTFWanRhUk1hTkJ4Mzc1bzd2THkyd1pWWHpkY3YwcHdrZURmOGd0RGhJUi9NL0VyOHpUZzJkMGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTQyMzg2CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CktCVjgva050SldQeFBucm9WaFYwdFZZZHNiYzFsK0ZMSnhkc1h6bWllTjRYRHNpQ05XS1gzQytkWXY1QzV3TGE2ZitMaWZzSVRyZmdhQlhUWDVSUUNRPT0K"
     },
     "darwin-universal": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.29/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjZha2JmN0dhWlhNNUJiQVNLYnZCVGdNN2lHbHM5c3ZxQVNudlk1dHA3bHBmakJRRFhEdmtESEJEZEZ6dmxHQVVNYkU0SFFFNlpYWTdHR2lwMnpwSndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTExNjEyCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6ClNXTVpDaDluLzcwdGpxdTZIdDBZOWRyN2NhY3JmR3ZEc0hBREs3bHZmRGNvTVBQbWZvWEN2QktqVElDcmVzRXA3L0QzQUFXZ0F6TFYxbDZidXd4U0F3PT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.30/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjFVVHh2RStNSWs2UlJFN0lRa3hCZ3RyeFFoODIyUTFWanRhUk1hTkJ4Mzc1bzd2THkyd1pWWHpkY3YwcHdrZURmOGd0RGhJUi9NL0VyOHpUZzJkMGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTQyMzg2CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CktCVjgva050SldQeFBucm9WaFYwdFZZZHNiYzFsK0ZMSnhkc1h6bWllTjRYRHNpQ05XS1gzQytkWXY1QzV3TGE2ZitMaWZzSVRyZmdhQlhUWDVSUUNRPT0K"
     }
   }
 }
