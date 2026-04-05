@@ -1,23 +1,23 @@
 {
-  "version": "1.0.36",
-  "notes": "Desktop v1.0.36 \u2014 now available for both macOS and Windows.",
-  "pub_date": "2026-04-05T03:49:02Z",
+  "version": "1.0.37",
+  "notes": "Bug fixes and improvements",
+  "pub_date": "2026-04-05T13:39:16Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.36/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjVkSUc2WmVFVG4wTjZzdkhQQUl0ZmI5UEUyNVNTOUVEUUJOb3pQYlJKVlFmcytwZmN4ZUM1ODNuY0hFeEE4cWJVRENubnd0eFNiRkoxdjBzL21OQ3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzYwNTc0CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmVISVAxb0pjL2s5dVc5QllQMzBSM2IrNGxnWkppcXVkQzFFd3d5L0R5QmNUcXFZZzhCM0xabWlqNXdtbTBML1JtQ2M4Tk1LTnRlZkVmU3A0UjIxdENnPT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.37/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjhHVDMrWnVlSE1vZmlwb2p5bWJFak81ci9yN2g3YWwraThCblZtRDU2ZlB2T2N1R05xU05INTNaYUovOGJSOWY2bTdna3pHRjN4MDFYU25xL1VQR2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk2MDIzCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmZkcXZ1MVp5QXlHQW5sc09tNk11SGlWN2h5M2o2VWJJVWd3VkI3SHlJUHppdm5KbzVxWld1KzlZYzRrM3J6bzdoamNxOGFySWoycGltYk9yd3Q5cEFRPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.36/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjVkSUc2WmVFVG4wTjZzdkhQQUl0ZmI5UEUyNVNTOUVEUUJOb3pQYlJKVlFmcytwZmN4ZUM1ODNuY0hFeEE4cWJVRENubnd0eFNiRkoxdjBzL21OQ3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzYwNTc0CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmVISVAxb0pjL2s5dVc5QllQMzBSM2IrNGxnWkppcXVkQzFFd3d5L0R5QmNUcXFZZzhCM0xabWlqNXdtbTBML1JtQ2M4Tk1LTnRlZkVmU3A0UjIxdENnPT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.37/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjhHVDMrWnVlSE1vZmlwb2p5bWJFak81ci9yN2g3YWwraThCblZtRDU2ZlB2T2N1R05xU05INTNaYUovOGJSOWY2bTdna3pHRjN4MDFYU25xL1VQR2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk2MDIzCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmZkcXZ1MVp5QXlHQW5sc09tNk11SGlWN2h5M2o2VWJJVWd3VkI3SHlJUHppdm5KbzVxWld1KzlZYzRrM3J6bzdoamNxOGFySWoycGltYk9yd3Q5cEFRPT0K"
     },
     "darwin-universal": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.36/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjVkSUc2WmVFVG4wTjZzdkhQQUl0ZmI5UEUyNVNTOUVEUUJOb3pQYlJKVlFmcytwZmN4ZUM1ODNuY0hFeEE4cWJVRENubnd0eFNiRkoxdjBzL21OQ3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzYwNTc0CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmVISVAxb0pjL2s5dVc5QllQMzBSM2IrNGxnWkppcXVkQzFFd3d5L0R5QmNUcXFZZzhCM0xabWlqNXdtbTBML1JtQ2M4Tk1LTnRlZkVmU3A0UjIxdENnPT0K"
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.37/Building.Calculator.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjhHVDMrWnVlSE1vZmlwb2p5bWJFak81ci9yN2g3YWwraThCblZtRDU2ZlB2T2N1R05xU05INTNaYUovOGJSOWY2bTdna3pHRjN4MDFYU25xL1VQR2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk2MDIzCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmZkcXZ1MVp5QXlHQW5sc09tNk11SGlWN2h5M2o2VWJJVWd3VkI3SHlJUHppdm5KbzVxWld1KzlZYzRrM3J6bzdoamNxOGFySWoycGltYk9yd3Q5cEFRPT0K"
     },
     "windows-x86_64": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.36/Building.Calculator_1.0.36_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NitzU3BBakUzWlBlTEFTdThEajk0SEJtMFIrQjRoREQ0eHhEZXhXa2M1bVQrazhpRk1GZnB5L29jNE9hc013TkZ3K1luS0hJQjNlemJxTDBRa3loWFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzYwNzk0CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvcl8xLjAuMzZfeDY0LXNldHVwLmV4ZQpISUYvd0p4bERKZ1lJcndmVy9sSzB2bGhtV1FwcUtMTW5kY2F5bWUvZExWUHVVOVQ1UllYa1lma3RacE9PUVRpdEh0Tmg3bDFFY3dUZWxBRTZCU2dEZz09Cg=="
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.37/Building.Calculator_1.0.37_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjJyU1NaTkRBcC96MWlMaGx2ZWZiOEJuaW9yU3BLcVRjdDZWWmFTMjJUc1RxOE0xeTFxU0lyeW0xcTZpd1V1QkEzSFBuS3V2K2NNeU1PTHFWTXhIWXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Mzk2MTg5CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvcl8xLjAuMzdfeDY0LXNldHVwLmV4ZQp4bUNlZHRSaGEwc0ZpYks4NW5ld1JVbU92aDNyU3BIdzBHRUtmSjlPdUlGRGlRTGcrSERVVVhuMDVleElPUTJJdlJMb2RZRlpTd1dicHVPUURHdUlCQT09Cg=="
     }
   }
 }
