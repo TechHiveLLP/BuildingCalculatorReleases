@@ -1,23 +1,19 @@
 {
   "version": "1.0.43",
-  "notes": "- Fix crash when viewing Multi-Tower Commercial reports\n- Show 'Office' instead of 'Residential' in MTC building visualization",
-  "pub_date": "2026-04-07T06:31:33Z",
+  "notes": "Apple Silicon only release. No Windows build in this release.",
+  "pub_date": "2026-04-10T04:11:49Z",
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.43/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjM1dG5WMndmeTVYZjZhMnYyY0lFL1BzQkNkMjhBN1F3bFIySmh3NGcwdGh1cHhOY1dNWXplVkJKc280Szd6WE51eW91bWZrN08ra3lhOVlZWFovVVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTQzNDU1CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmEyL24wcGNKbjhKeWFtdEdINVZGYWNpTG14SVNZYlg0M1JiYjE5R1JIRzdha2lSRHVLTDJJdFdHNFVuT2pYcnBWUmZMNitHOVVwYm41ZFNUMXJDQkNBPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nis1ZFFYbW93MkpIdkc5TFdPdHZBTHVnRys2YVVRNm9raWQzVG1KN09TcG1DN1JHaGRvOW81N0N3S0dJSStVSUhKSEMwaGxrTnFDWXFhODc2YkRPYVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Nzk0MTI5CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6ClZ3UEpBbHNpcnlwYjhsRTh3dmdaVUZYNjhPbUxrZURKdWt1WHpmb0xGUTVXUVU3eUFkc1lkWTVqdGJSSnIvS0U3K0srRFIyZ1JOY2I0VjVPLzR1cURRPT0K"
     },
     "darwin-x86_64": {
       "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.43/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjM1dG5WMndmeTVYZjZhMnYyY0lFL1BzQkNkMjhBN1F3bFIySmh3NGcwdGh1cHhOY1dNWXplVkJKc280Szd6WE51eW91bWZrN08ra3lhOVlZWFovVVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTQzNDU1CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmEyL24wcGNKbjhKeWFtdEdINVZGYWNpTG14SVNZYlg0M1JiYjE5R1JIRzdha2lSRHVLTDJJdFdHNFVuT2pYcnBWUmZMNitHOVVwYm41ZFNUMXJDQkNBPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nis1ZFFYbW93MkpIdkc5TFdPdHZBTHVnRys2YVVRNm9raWQzVG1KN09TcG1DN1JHaGRvOW81N0N3S0dJSStVSUhKSEMwaGxrTnFDWXFhODc2YkRPYVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Nzk0MTI5CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6ClZ3UEpBbHNpcnlwYjhsRTh3dmdaVUZYNjhPbUxrZURKdWt1WHpmb0xGUTVXUVU3eUFkc1lkWTVqdGJSSnIvS0U3K0srRFIyZ1JOY2I0VjVPLzR1cURRPT0K"
     },
     "darwin-universal": {
       "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.43/Building.Calculator.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjM1dG5WMndmeTVYZjZhMnYyY0lFL1BzQkNkMjhBN1F3bFIySmh3NGcwdGh1cHhOY1dNWXplVkJKc280Szd6WE51eW91bWZrN08ra3lhOVlZWFovVVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTQzNDU1CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6CmEyL24wcGNKbjhKeWFtdEdINVZGYWNpTG14SVNZYlg0M1JiYjE5R1JIRzdha2lSRHVLTDJJdFdHNFVuT2pYcnBWUmZMNitHOVVwYm41ZFNUMXJDQkNBPT0K"
-    },
-    "windows-x86_64": {
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.0.42/Building.Calculator_1.0.42_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NjRib2U3ZVZLempDbnVOUEsveG5salVGVGxHSTdteEFpdVlKdzJqNG8wNW1tYks2bTFuYThXK2dIZHluMzZYUGVyU3lrWDMwcnQwbG5vREw0TnU3SkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTA1MjgzCWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvcl8xLjAuNDJfeDY0LXNldHVwLmV4ZQpZWGhpdGN1U0pxVFBpaFdCaHBnVGFIOCtnekNRRlZuZE1JY2Fhd0NIM1hZRlNxc2dsVkowMTQ4K3BWOTNLMElvRFNNdVBtMVR1eUZVV1c3Y1QvSFJCZz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2Nis1ZFFYbW93MkpIdkc5TFdPdHZBTHVnRys2YVVRNm9raWQzVG1KN09TcG1DN1JHaGRvOW81N0N3S0dJSStVSUhKSEMwaGxrTnFDWXFhODc2YkRPYVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1Nzk0MTI5CWZpbGU6QnVpbGRpbmcgQ2FsY3VsYXRvci5hcHAudGFyLmd6ClZ3UEpBbHNpcnlwYjhsRTh3dmdaVUZYNjhPbUxrZURKdWt1WHpmb0xGUTVXUVU3eUFkc1lkWTVqdGJSSnIvS0U3K0srRFIyZ1JOY2I0VjVPLzR1cURRPT0K"
     }
   }
 }
