@@ -1,23 +1,23 @@
 {
-  "version": "1.1.27",
+  "version": "1.1.28",
   "notes": "See the release on GitHub for details.",
-  "pub_date": "2026-10-08T16:24:39.000Z",
+  "pub_date": "2026-10-08T18:01:29.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NnowQWY2TWtWbk5EU2drMnRBQnVHOTBkalVlc1JOK2hXVjRQNTlmZ0xwZUJOUTI4b2FLMW0wLy9DMEVLRFlsaURKOXRuWFhvTG10a3RGM1Z5SXdvaGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDc2NTEyCWZpbGU6ZnNpTWV0cmljcy5hcHAudGFyLmd6CksxQlBPb1VGaEQ1L3NHUU95U3dHNDYwQTA2RlRLeXM2L1dtcnJxOGsrZzNaa2ZIb3N1THlnT25KczFmVzNsMkcxVENyMHVHb0FMcjJmaEV3bERIdENBPT0K",
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.1.27/fsiMetrics.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NnpCNUlnYk5FQlN3ZEZsNTZuTUZCdjFDY05UWGROY1Fic0NUUDhtOXBrU2tsbFV0b00rS0JReGR0eHY5SmJhN0NxTDBsaHVCaXJZWkkzMlZUemdJcUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDgyMzEzCWZpbGU6ZnNpTWV0cmljcy5hcHAudGFyLmd6CmJQMUNyVkFua25nMUJKVVhLS1ZmY3ZxZnFabXVoZFpBWDZWUWtlb3VFdzhwR0xJS3k5cE02bUIrWUw5NDlXY29taHVRWHBrUnZBK2ZZRXRqMEc2cUFRPT0K",
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.1.28/fsiMetrics.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NnowQWY2TWtWbk5EU2drMnRBQnVHOTBkalVlc1JOK2hXVjRQNTlmZ0xwZUJOUTI4b2FLMW0wLy9DMEVLRFlsaURKOXRuWFhvTG10a3RGM1Z5SXdvaGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDc2NTEyCWZpbGU6ZnNpTWV0cmljcy5hcHAudGFyLmd6CksxQlBPb1VGaEQ1L3NHUU95U3dHNDYwQTA2RlRLeXM2L1dtcnJxOGsrZzNaa2ZIb3N1THlnT25KczFmVzNsMkcxVENyMHVHb0FMcjJmaEV3bERIdENBPT0K",
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.1.27/fsiMetrics.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NnpCNUlnYk5FQlN3ZEZsNTZuTUZCdjFDY05UWGROY1Fic0NUUDhtOXBrU2tsbFV0b00rS0JReGR0eHY5SmJhN0NxTDBsaHVCaXJZWkkzMlZUemdJcUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDgyMzEzCWZpbGU6ZnNpTWV0cmljcy5hcHAudGFyLmd6CmJQMUNyVkFua25nMUJKVVhLS1ZmY3ZxZnFabXVoZFpBWDZWUWtlb3VFdzhwR0xJS3k5cE02bUIrWUw5NDlXY29taHVRWHBrUnZBK2ZZRXRqMEc2cUFRPT0K",
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.1.28/fsiMetrics.app.tar.gz"
     },
     "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NnowQWY2TWtWbk5EU2drMnRBQnVHOTBkalVlc1JOK2hXVjRQNTlmZ0xwZUJOUTI4b2FLMW0wLy9DMEVLRFlsaURKOXRuWFhvTG10a3RGM1Z5SXdvaGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDc2NTEyCWZpbGU6ZnNpTWV0cmljcy5hcHAudGFyLmd6CksxQlBPb1VGaEQ1L3NHUU95U3dHNDYwQTA2RlRLeXM2L1dtcnJxOGsrZzNaa2ZIb3N1THlnT25KczFmVzNsMkcxVENyMHVHb0FMcjJmaEV3bERIdENBPT0K",
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.1.27/fsiMetrics.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NnpCNUlnYk5FQlN3ZEZsNTZuTUZCdjFDY05UWGROY1Fic0NUUDhtOXBrU2tsbFV0b00rS0JReGR0eHY5SmJhN0NxTDBsaHVCaXJZWkkzMlZUemdJcUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDgyMzEzCWZpbGU6ZnNpTWV0cmljcy5hcHAudGFyLmd6CmJQMUNyVkFua25nMUJKVVhLS1ZmY3ZxZnFabXVoZFpBWDZWUWtlb3VFdzhwR0xJS3k5cE02bUIrWUw5NDlXY29taHVRWHBrUnZBK2ZZRXRqMEc2cUFRPT0K",
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.1.28/fsiMetrics.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NitiN1hUSkoyRU54V2xOWjhEUUxBaTQwbEJIelhGU21Nd0dKOGdObGltTkxlOXRmeWdwSkU0T2xlR0pFcnQ2Vm1tT2twbkZIRHlFN0l0MHNGTW1OSlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDc2NjY0CWZpbGU6ZnNpTWV0cmljc18xLjEuMjdfeDY0LXNldHVwLmV4ZQo1cUcvc3hzMmVRalNIVk9WU0VQTlYxclduZ3dRa3ZjamtSYnZBaGZEVG1wN1NQb1R3ejlhMm1wcVZhSkw1ODhkNytoU3I1Z2ZSRFU2V3A1T2pEVVFBdz09Cg==",
-      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.1.27/fsiMetrics_1.1.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM2EvTEZEdmk2NnpSNjVsSXBkeUQvTlloMTBzcGJUTy9zYzc5VGpPMmk1OUE5MUxoZzUvZ0NobWRhVmE4VmxUV0ZHK0IzMzVuSkkvbHg5NXNJU3N6T2xRSGNIY0pVamdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDgyNDczCWZpbGU6ZnNpTWV0cmljc18xLjEuMjhfeDY0LXNldHVwLmV4ZQpCZGNnUjQ3dHVwdm8yck13L09VZkdOY3NzaU0veG4vR1pLSXV6NTZhVGwxMmRFMGgwTzRGR3pVbFFSb2hHc2x5bmJGUEg0OC9JN0JZQWRpbEhjeWFDQT09Cg==",
+      "url": "https://github.com/TechHiveLLP/BuildingCalculatorReleases/releases/download/desktop-v1.1.28/fsiMetrics_1.1.28_x64-setup.exe"
     }
   }
 }
